@@ -45,11 +45,11 @@
   "renderMode": "CANVAS",
   "resetOnSubmit": true,
   "responsiveBehavior": "fill",
-  "rightColumn": 27,
+  "rightColumn": 56,
   "showStepArrows": false,
-  "topRow": 40,
+  "topRow": 27,
   "type": "CURRENCY_INPUT_WIDGET",
   "version": 1,
-  "widgetId": "3w5h5n2pex",
+  "widgetId": "78is7ut0dh",
   "widgetName": "CurrencyInput2"
 }
